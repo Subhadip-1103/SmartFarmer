@@ -24,6 +24,7 @@ urlpatterns = [
     path('api/users/', include('users.urls')),
     path('api/learning/', include('learning.urls')),
     path('api/marketplace/', include('marketplace.urls')),
+    path('api/weather/', include('weather.urls')),
 ]
 
 if settings.DEBUG:

@@ -50,6 +50,7 @@ INSTALLED_APPS = [
     'learning',
     'marketplace',
     'cropai',
+    'weather',
 ]
 
 MIDDLEWARE = [
@@ -132,6 +133,10 @@ STATIC_URL = 'static/'
 MEDIA_URL = '/media/'
 MEDIA_ROOT = BASE_DIR / 'media'
 
+RAZORPAY_KEY_ID = config('RAZORPAY_KEY_ID')
+RAZORPAY_KEY_SECRET = config('RAZORPAY_KEY_SECRET')
+
+OPENWEATHER_API_KEY = config('OPENWEATHER_API_KEY')
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field
 

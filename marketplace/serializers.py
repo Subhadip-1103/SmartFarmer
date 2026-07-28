@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from .models import Category, Product, Cart, CartItem
+from .models import Category, Product, Cart, CartItem, Order, OrderItem
 
 
 class CategorySerializer(serializers.ModelSerializer):
@@ -11,7 +11,6 @@ class CategorySerializer(serializers.ModelSerializer):
 class ProductSerializer(serializers.ModelSerializer):
     category_name = serializers.CharField(source='category.name', read_only=True)
     seller_name = serializers.CharField(source='seller.username', read_only=True)
-    image = serializers.SerializerMethodField()
 
     class Meta:
         model = Product
@@ -22,11 +21,14 @@ class ProductSerializer(serializers.ModelSerializer):
         ]
         read_only_fields = ['seller']
 
-    def get_image(self, obj):
+    def to_representation(self, instance):
+        rep = super().to_representation(instance)
         request = self.context.get('request')
-        if obj.image and request:
-            return request.build_absolute_uri(obj.image.url)
-        return None
+        if instance.image and request:
+            rep['image'] = request.build_absolute_uri(instance.image.url)
+        else:
+            rep['image'] = None
+        return rep
 
 
 class CartItemSerializer(serializers.ModelSerializer):
@@ -43,3 +45,23 @@ class CartSerializer(serializers.ModelSerializer):
     class Meta:
         model = Cart
         fields = ['id', 'user', 'items', 'created_at']
+
+
+class OrderItemSerializer(serializers.ModelSerializer):
+    product_title = serializers.CharField(source='product.title', read_only=True)
+
+    class Meta:
+        model = OrderItem
+        fields = ['id', 'product', 'product_title', 'quantity', 'price_at_purchase']
+
+
+class OrderSerializer(serializers.ModelSerializer):
+    items = OrderItemSerializer(many=True, read_only=True)
+
+    class Meta:
+        model = Order
+        fields = [
+            'id', 'buyer', 'total_amount', 'status',
+            'razorpay_order_id', 'shipping_address', 'items', 'created_at',
+        ]
+        read_only_fields = ['buyer', 'total_amount', 'status', 'razorpay_order_id']

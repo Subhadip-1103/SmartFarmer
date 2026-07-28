@@ -3,6 +3,7 @@ from .views import (
     CategoryListView, ProductListView, ProductDetailView,
     CartView, AddToCartView, UpdateCartItemView, RemoveFromCartView,
     MyProductsView, MyProductDetailView,
+    CreateOrderView, VerifyPaymentView, MyOrdersView, FarmerOrdersView,
 )
 
 urlpatterns = [
@@ -17,4 +18,9 @@ urlpatterns = [
 
     path('my-products/', MyProductsView.as_view(), name='my-products'),
     path('my-products/<int:pk>/', MyProductDetailView.as_view(), name='my-product-detail'),
+
+    path('checkout/create-order/', CreateOrderView.as_view(), name='create-order'),
+    path('checkout/verify-payment/', VerifyPaymentView.as_view(), name='verify-payment'),
+    path('my-orders/', MyOrdersView.as_view(), name='my-orders'),
+    path('farmer-orders/', FarmerOrdersView.as_view(), name='farmer-orders'),
 ]
