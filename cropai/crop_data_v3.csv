@@ -1,0 +1,418 @@
+state,district,soil_type,season,temperature,crop
+Punjab,Amritsar,Alluvial,Kharif,32,Rice
+Punjab,Amritsar,Alluvial,Kharif,32,Maize
+Punjab,Amritsar,Alluvial,Kharif,32,Sugarcane
+Punjab,Amritsar,Alluvial,Kharif,32,Cotton
+Punjab,Amritsar,Alluvial,Kharif,32,Jute
+Punjab,Amritsar,Alluvial,Rabi,15,Wheat
+Punjab,Amritsar,Alluvial,Rabi,15,Mustard
+Punjab,Amritsar,Alluvial,Rabi,15,Gram
+Punjab,Amritsar,Alluvial,Rabi,15,Barley
+Punjab,Amritsar,Alluvial,Rabi,15,Peas
+Punjab,Amritsar,Alluvial,Zaid,38,Watermelon
+Punjab,Amritsar,Alluvial,Zaid,38,Cucumber
+Punjab,Amritsar,Alluvial,Zaid,38,Moong
+Punjab,Amritsar,Alluvial,Zaid,38,Fodder Crops
+Punjab,Ludhiana,Alluvial,Kharif,32,Rice
+Punjab,Ludhiana,Alluvial,Kharif,32,Maize
+Punjab,Ludhiana,Alluvial,Kharif,32,Sugarcane
+Punjab,Ludhiana,Alluvial,Kharif,32,Cotton
+Punjab,Ludhiana,Alluvial,Kharif,32,Jute
+Punjab,Ludhiana,Alluvial,Rabi,15,Wheat
+Punjab,Ludhiana,Alluvial,Rabi,15,Mustard
+Punjab,Ludhiana,Alluvial,Rabi,15,Gram
+Punjab,Ludhiana,Alluvial,Rabi,15,Barley
+Punjab,Ludhiana,Alluvial,Rabi,15,Peas
+Punjab,Ludhiana,Alluvial,Zaid,38,Watermelon
+Punjab,Ludhiana,Alluvial,Zaid,38,Cucumber
+Punjab,Ludhiana,Alluvial,Zaid,38,Moong
+Punjab,Ludhiana,Alluvial,Zaid,38,Fodder Crops
+Punjab,Bathinda,Alluvial,Kharif,33,Rice
+Punjab,Bathinda,Alluvial,Kharif,33,Maize
+Punjab,Bathinda,Alluvial,Kharif,33,Sugarcane
+Punjab,Bathinda,Alluvial,Kharif,33,Cotton
+Punjab,Bathinda,Alluvial,Kharif,33,Jute
+Punjab,Bathinda,Alluvial,Rabi,16,Wheat
+Punjab,Bathinda,Alluvial,Rabi,16,Mustard
+Punjab,Bathinda,Alluvial,Rabi,16,Gram
+Punjab,Bathinda,Alluvial,Rabi,16,Barley
+Punjab,Bathinda,Alluvial,Rabi,16,Peas
+Punjab,Bathinda,Alluvial,Zaid,39,Watermelon
+Punjab,Bathinda,Alluvial,Zaid,39,Cucumber
+Punjab,Bathinda,Alluvial,Zaid,39,Moong
+Punjab,Bathinda,Alluvial,Zaid,39,Fodder Crops
+Uttar Pradesh,Varanasi,Alluvial,Kharif,31,Rice
+Uttar Pradesh,Varanasi,Alluvial,Kharif,31,Maize
+Uttar Pradesh,Varanasi,Alluvial,Kharif,31,Sugarcane
+Uttar Pradesh,Varanasi,Alluvial,Kharif,31,Cotton
+Uttar Pradesh,Varanasi,Alluvial,Kharif,31,Jute
+Uttar Pradesh,Varanasi,Alluvial,Rabi,16,Wheat
+Uttar Pradesh,Varanasi,Alluvial,Rabi,16,Mustard
+Uttar Pradesh,Varanasi,Alluvial,Rabi,16,Gram
+Uttar Pradesh,Varanasi,Alluvial,Rabi,16,Barley
+Uttar Pradesh,Varanasi,Alluvial,Rabi,16,Peas
+Uttar Pradesh,Varanasi,Alluvial,Zaid,37,Watermelon
+Uttar Pradesh,Varanasi,Alluvial,Zaid,37,Cucumber
+Uttar Pradesh,Varanasi,Alluvial,Zaid,37,Moong
+Uttar Pradesh,Varanasi,Alluvial,Zaid,37,Fodder Crops
+Uttar Pradesh,Meerut,Alluvial,Kharif,31,Rice
+Uttar Pradesh,Meerut,Alluvial,Kharif,31,Maize
+Uttar Pradesh,Meerut,Alluvial,Kharif,31,Sugarcane
+Uttar Pradesh,Meerut,Alluvial,Kharif,31,Cotton
+Uttar Pradesh,Meerut,Alluvial,Kharif,31,Jute
+Uttar Pradesh,Meerut,Alluvial,Rabi,16,Wheat
+Uttar Pradesh,Meerut,Alluvial,Rabi,16,Mustard
+Uttar Pradesh,Meerut,Alluvial,Rabi,16,Gram
+Uttar Pradesh,Meerut,Alluvial,Rabi,16,Barley
+Uttar Pradesh,Meerut,Alluvial,Rabi,16,Peas
+Uttar Pradesh,Meerut,Alluvial,Zaid,37,Watermelon
+Uttar Pradesh,Meerut,Alluvial,Zaid,37,Cucumber
+Uttar Pradesh,Meerut,Alluvial,Zaid,37,Moong
+Uttar Pradesh,Meerut,Alluvial,Zaid,37,Fodder Crops
+Uttar Pradesh,Jhansi,Red,Kharif,32,Groundnut
+Uttar Pradesh,Jhansi,Red,Kharif,32,Millet
+Uttar Pradesh,Jhansi,Red,Kharif,32,Cotton
+Uttar Pradesh,Jhansi,Red,Kharif,32,Pulses
+Uttar Pradesh,Jhansi,Red,Kharif,32,Tobacco
+Uttar Pradesh,Jhansi,Red,Rabi,17,Wheat
+Uttar Pradesh,Jhansi,Red,Rabi,17,Gram
+Uttar Pradesh,Jhansi,Red,Rabi,17,Groundnut
+Uttar Pradesh,Jhansi,Red,Rabi,17,Ragi
+Uttar Pradesh,Jhansi,Red,Zaid,38,Vegetables
+Uttar Pradesh,Jhansi,Red,Zaid,38,Sesame
+Uttar Pradesh,Jhansi,Red,Zaid,38,Groundnut
+Bihar,Patna,Alluvial,Kharif,31,Rice
+Bihar,Patna,Alluvial,Kharif,31,Maize
+Bihar,Patna,Alluvial,Kharif,31,Sugarcane
+Bihar,Patna,Alluvial,Kharif,31,Cotton
+Bihar,Patna,Alluvial,Kharif,31,Jute
+Bihar,Patna,Alluvial,Rabi,17,Wheat
+Bihar,Patna,Alluvial,Rabi,17,Mustard
+Bihar,Patna,Alluvial,Rabi,17,Gram
+Bihar,Patna,Alluvial,Rabi,17,Barley
+Bihar,Patna,Alluvial,Rabi,17,Peas
+Bihar,Patna,Alluvial,Zaid,36,Watermelon
+Bihar,Patna,Alluvial,Zaid,36,Cucumber
+Bihar,Patna,Alluvial,Zaid,36,Moong
+Bihar,Patna,Alluvial,Zaid,36,Fodder Crops
+Bihar,Gaya,Red,Kharif,31,Groundnut
+Bihar,Gaya,Red,Kharif,31,Millet
+Bihar,Gaya,Red,Kharif,31,Cotton
+Bihar,Gaya,Red,Kharif,31,Pulses
+Bihar,Gaya,Red,Kharif,31,Tobacco
+Bihar,Gaya,Red,Rabi,17,Wheat
+Bihar,Gaya,Red,Rabi,17,Gram
+Bihar,Gaya,Red,Rabi,17,Groundnut
+Bihar,Gaya,Red,Rabi,17,Ragi
+Bihar,Gaya,Red,Zaid,36,Vegetables
+Bihar,Gaya,Red,Zaid,36,Sesame
+Bihar,Gaya,Red,Zaid,36,Groundnut
+West Bengal,Bankura,Laterite,Kharif,30,Rice
+West Bengal,Bankura,Laterite,Kharif,30,Ragi
+West Bengal,Bankura,Laterite,Kharif,30,Tapioca
+West Bengal,Bankura,Laterite,Kharif,30,Cashew
+West Bengal,Bankura,Laterite,Rabi,20,Pulses
+West Bengal,Bankura,Laterite,Rabi,20,Vegetables
+West Bengal,Bankura,Laterite,Zaid,35,Coconut
+West Bengal,Bankura,Laterite,Zaid,35,Areca Nut
+West Bengal,Bankura,Laterite,Zaid,35,Rubber
+West Bengal,Purulia,Red,Kharif,31,Groundnut
+West Bengal,Purulia,Red,Kharif,31,Millet
+West Bengal,Purulia,Red,Kharif,31,Cotton
+West Bengal,Purulia,Red,Kharif,31,Pulses
+West Bengal,Purulia,Red,Kharif,31,Tobacco
+West Bengal,Purulia,Red,Rabi,21,Wheat
+West Bengal,Purulia,Red,Rabi,21,Gram
+West Bengal,Purulia,Red,Rabi,21,Groundnut
+West Bengal,Purulia,Red,Rabi,21,Ragi
+West Bengal,Purulia,Red,Zaid,36,Vegetables
+West Bengal,Purulia,Red,Zaid,36,Sesame
+West Bengal,Purulia,Red,Zaid,36,Groundnut
+West Bengal,Purba Medinipur,Alluvial,Kharif,28,Rice
+West Bengal,Purba Medinipur,Alluvial,Kharif,28,Maize
+West Bengal,Purba Medinipur,Alluvial,Kharif,28,Sugarcane
+West Bengal,Purba Medinipur,Alluvial,Kharif,28,Cotton
+West Bengal,Purba Medinipur,Alluvial,Kharif,28,Jute
+West Bengal,Purba Medinipur,Alluvial,Rabi,18,Wheat
+West Bengal,Purba Medinipur,Alluvial,Rabi,18,Mustard
+West Bengal,Purba Medinipur,Alluvial,Rabi,18,Gram
+West Bengal,Purba Medinipur,Alluvial,Rabi,18,Barley
+West Bengal,Purba Medinipur,Alluvial,Rabi,18,Peas
+West Bengal,Purba Medinipur,Alluvial,Zaid,33,Watermelon
+West Bengal,Purba Medinipur,Alluvial,Zaid,33,Cucumber
+West Bengal,Purba Medinipur,Alluvial,Zaid,33,Moong
+West Bengal,Purba Medinipur,Alluvial,Zaid,33,Fodder Crops
+West Bengal,Paschim Medinipur,Alluvial,Kharif,28,Rice
+West Bengal,Paschim Medinipur,Alluvial,Kharif,28,Maize
+West Bengal,Paschim Medinipur,Alluvial,Kharif,28,Sugarcane
+West Bengal,Paschim Medinipur,Alluvial,Kharif,28,Cotton
+West Bengal,Paschim Medinipur,Alluvial,Kharif,28,Jute
+West Bengal,Paschim Medinipur,Alluvial,Rabi,18,Wheat
+West Bengal,Paschim Medinipur,Alluvial,Rabi,18,Mustard
+West Bengal,Paschim Medinipur,Alluvial,Rabi,18,Gram
+West Bengal,Paschim Medinipur,Alluvial,Rabi,18,Barley
+West Bengal,Paschim Medinipur,Alluvial,Rabi,18,Peas
+West Bengal,Paschim Medinipur,Alluvial,Zaid,33,Watermelon
+West Bengal,Paschim Medinipur,Alluvial,Zaid,33,Cucumber
+West Bengal,Paschim Medinipur,Alluvial,Zaid,33,Moong
+West Bengal,Paschim Medinipur,Alluvial,Zaid,33,Fodder Crops
+West Bengal,Murshidabad,Alluvial,Kharif,30,Rice
+West Bengal,Murshidabad,Alluvial,Kharif,30,Maize
+West Bengal,Murshidabad,Alluvial,Kharif,30,Sugarcane
+West Bengal,Murshidabad,Alluvial,Kharif,30,Cotton
+West Bengal,Murshidabad,Alluvial,Kharif,30,Jute
+West Bengal,Murshidabad,Alluvial,Rabi,20,Wheat
+West Bengal,Murshidabad,Alluvial,Rabi,20,Mustard
+West Bengal,Murshidabad,Alluvial,Rabi,20,Gram
+West Bengal,Murshidabad,Alluvial,Rabi,20,Barley
+West Bengal,Murshidabad,Alluvial,Rabi,20,Peas
+West Bengal,Murshidabad,Alluvial,Zaid,35,Watermelon
+West Bengal,Murshidabad,Alluvial,Zaid,35,Cucumber
+West Bengal,Murshidabad,Alluvial,Zaid,35,Moong
+West Bengal,Murshidabad,Alluvial,Zaid,35,Fodder Crops
+West Bengal,Jalpaiguri,Alluvial,Kharif,29,Rice
+West Bengal,Jalpaiguri,Alluvial,Kharif,29,Maize
+West Bengal,Jalpaiguri,Alluvial,Kharif,29,Sugarcane
+West Bengal,Jalpaiguri,Alluvial,Kharif,29,Cotton
+West Bengal,Jalpaiguri,Alluvial,Kharif,29,Jute
+West Bengal,Jalpaiguri,Alluvial,Rabi,19,Wheat
+West Bengal,Jalpaiguri,Alluvial,Rabi,19,Mustard
+West Bengal,Jalpaiguri,Alluvial,Rabi,19,Gram
+West Bengal,Jalpaiguri,Alluvial,Rabi,19,Barley
+West Bengal,Jalpaiguri,Alluvial,Rabi,19,Peas
+West Bengal,Jalpaiguri,Alluvial,Zaid,34,Watermelon
+West Bengal,Jalpaiguri,Alluvial,Zaid,34,Cucumber
+West Bengal,Jalpaiguri,Alluvial,Zaid,34,Moong
+West Bengal,Jalpaiguri,Alluvial,Zaid,34,Fodder Crops
+Rajasthan,Jaisalmer,Sandy,Kharif,35,Bajra
+Rajasthan,Jaisalmer,Sandy,Kharif,35,Groundnut
+Rajasthan,Jaisalmer,Sandy,Kharif,35,Guar
+Rajasthan,Jaisalmer,Sandy,Kharif,35,Moth Bean
+Rajasthan,Jaisalmer,Sandy,Rabi,19,Mustard
+Rajasthan,Jaisalmer,Sandy,Rabi,19,Gram
+Rajasthan,Jaisalmer,Sandy,Rabi,19,Barley
+Rajasthan,Jaisalmer,Sandy,Zaid,43,Watermelon
+Rajasthan,Jaisalmer,Sandy,Zaid,43,Muskmelon
+Rajasthan,Jaisalmer,Sandy,Zaid,43,Cucumber
+Rajasthan,Jodhpur,Sandy,Kharif,34,Bajra
+Rajasthan,Jodhpur,Sandy,Kharif,34,Groundnut
+Rajasthan,Jodhpur,Sandy,Kharif,34,Guar
+Rajasthan,Jodhpur,Sandy,Kharif,34,Moth Bean
+Rajasthan,Jodhpur,Sandy,Rabi,18,Mustard
+Rajasthan,Jodhpur,Sandy,Rabi,18,Gram
+Rajasthan,Jodhpur,Sandy,Rabi,18,Barley
+Rajasthan,Jodhpur,Sandy,Zaid,42,Watermelon
+Rajasthan,Jodhpur,Sandy,Zaid,42,Muskmelon
+Rajasthan,Jodhpur,Sandy,Zaid,42,Cucumber
+Rajasthan,Kota,Black,Kharif,33,Cotton
+Rajasthan,Kota,Black,Kharif,33,Soybean
+Rajasthan,Kota,Black,Kharif,33,Groundnut
+Rajasthan,Kota,Black,Kharif,33,Pigeon Pea
+Rajasthan,Kota,Black,Kharif,33,Sorghum
+Rajasthan,Kota,Black,Rabi,17,Wheat
+Rajasthan,Kota,Black,Rabi,17,Gram
+Rajasthan,Kota,Black,Rabi,17,Sunflower
+Rajasthan,Kota,Black,Rabi,17,Linseed
+Rajasthan,Kota,Black,Zaid,41,Groundnut
+Rajasthan,Kota,Black,Zaid,41,Sesame
+Rajasthan,Kota,Black,Zaid,41,Vegetables
+Rajasthan,Udaipur,Red,Kharif,33,Groundnut
+Rajasthan,Udaipur,Red,Kharif,33,Millet
+Rajasthan,Udaipur,Red,Kharif,33,Cotton
+Rajasthan,Udaipur,Red,Kharif,33,Pulses
+Rajasthan,Udaipur,Red,Kharif,33,Tobacco
+Rajasthan,Udaipur,Red,Rabi,17,Wheat
+Rajasthan,Udaipur,Red,Rabi,17,Gram
+Rajasthan,Udaipur,Red,Rabi,17,Groundnut
+Rajasthan,Udaipur,Red,Rabi,17,Ragi
+Rajasthan,Udaipur,Red,Zaid,41,Vegetables
+Rajasthan,Udaipur,Red,Zaid,41,Sesame
+Rajasthan,Udaipur,Red,Zaid,41,Groundnut
+Maharashtra,Nagpur,Black,Kharif,29,Cotton
+Maharashtra,Nagpur,Black,Kharif,29,Soybean
+Maharashtra,Nagpur,Black,Kharif,29,Groundnut
+Maharashtra,Nagpur,Black,Kharif,29,Pigeon Pea
+Maharashtra,Nagpur,Black,Kharif,29,Sorghum
+Maharashtra,Nagpur,Black,Rabi,23,Wheat
+Maharashtra,Nagpur,Black,Rabi,23,Gram
+Maharashtra,Nagpur,Black,Rabi,23,Sunflower
+Maharashtra,Nagpur,Black,Rabi,23,Linseed
+Maharashtra,Nagpur,Black,Zaid,35,Groundnut
+Maharashtra,Nagpur,Black,Zaid,35,Sesame
+Maharashtra,Nagpur,Black,Zaid,35,Vegetables
+Maharashtra,Pune,Black,Kharif,27,Cotton
+Maharashtra,Pune,Black,Kharif,27,Soybean
+Maharashtra,Pune,Black,Kharif,27,Groundnut
+Maharashtra,Pune,Black,Kharif,27,Pigeon Pea
+Maharashtra,Pune,Black,Kharif,27,Sorghum
+Maharashtra,Pune,Black,Rabi,21,Wheat
+Maharashtra,Pune,Black,Rabi,21,Gram
+Maharashtra,Pune,Black,Rabi,21,Sunflower
+Maharashtra,Pune,Black,Rabi,21,Linseed
+Maharashtra,Pune,Black,Zaid,33,Groundnut
+Maharashtra,Pune,Black,Zaid,33,Sesame
+Maharashtra,Pune,Black,Zaid,33,Vegetables
+Maharashtra,Nashik,Black,Kharif,28,Cotton
+Maharashtra,Nashik,Black,Kharif,28,Soybean
+Maharashtra,Nashik,Black,Kharif,28,Groundnut
+Maharashtra,Nashik,Black,Kharif,28,Pigeon Pea
+Maharashtra,Nashik,Black,Kharif,28,Sorghum
+Maharashtra,Nashik,Black,Rabi,22,Wheat
+Maharashtra,Nashik,Black,Rabi,22,Gram
+Maharashtra,Nashik,Black,Rabi,22,Sunflower
+Maharashtra,Nashik,Black,Rabi,22,Linseed
+Maharashtra,Nashik,Black,Zaid,34,Groundnut
+Maharashtra,Nashik,Black,Zaid,34,Sesame
+Maharashtra,Nashik,Black,Zaid,34,Vegetables
+Maharashtra,Kolhapur,Red,Kharif,27,Groundnut
+Maharashtra,Kolhapur,Red,Kharif,27,Millet
+Maharashtra,Kolhapur,Red,Kharif,27,Cotton
+Maharashtra,Kolhapur,Red,Kharif,27,Pulses
+Maharashtra,Kolhapur,Red,Kharif,27,Tobacco
+Maharashtra,Kolhapur,Red,Rabi,21,Wheat
+Maharashtra,Kolhapur,Red,Rabi,21,Gram
+Maharashtra,Kolhapur,Red,Rabi,21,Groundnut
+Maharashtra,Kolhapur,Red,Rabi,21,Ragi
+Maharashtra,Kolhapur,Red,Zaid,33,Vegetables
+Maharashtra,Kolhapur,Red,Zaid,33,Sesame
+Maharashtra,Kolhapur,Red,Zaid,33,Groundnut
+Madhya Pradesh,Indore,Black,Kharif,30,Cotton
+Madhya Pradesh,Indore,Black,Kharif,30,Soybean
+Madhya Pradesh,Indore,Black,Kharif,30,Groundnut
+Madhya Pradesh,Indore,Black,Kharif,30,Pigeon Pea
+Madhya Pradesh,Indore,Black,Kharif,30,Sorghum
+Madhya Pradesh,Indore,Black,Rabi,18,Wheat
+Madhya Pradesh,Indore,Black,Rabi,18,Gram
+Madhya Pradesh,Indore,Black,Rabi,18,Sunflower
+Madhya Pradesh,Indore,Black,Rabi,18,Linseed
+Madhya Pradesh,Indore,Black,Zaid,36,Groundnut
+Madhya Pradesh,Indore,Black,Zaid,36,Sesame
+Madhya Pradesh,Indore,Black,Zaid,36,Vegetables
+Madhya Pradesh,Bhopal,Black,Kharif,30,Cotton
+Madhya Pradesh,Bhopal,Black,Kharif,30,Soybean
+Madhya Pradesh,Bhopal,Black,Kharif,30,Groundnut
+Madhya Pradesh,Bhopal,Black,Kharif,30,Pigeon Pea
+Madhya Pradesh,Bhopal,Black,Kharif,30,Sorghum
+Madhya Pradesh,Bhopal,Black,Rabi,18,Wheat
+Madhya Pradesh,Bhopal,Black,Rabi,18,Gram
+Madhya Pradesh,Bhopal,Black,Rabi,18,Sunflower
+Madhya Pradesh,Bhopal,Black,Rabi,18,Linseed
+Madhya Pradesh,Bhopal,Black,Zaid,36,Groundnut
+Madhya Pradesh,Bhopal,Black,Zaid,36,Sesame
+Madhya Pradesh,Bhopal,Black,Zaid,36,Vegetables
+Madhya Pradesh,Chhindwara,Red,Kharif,29,Groundnut
+Madhya Pradesh,Chhindwara,Red,Kharif,29,Millet
+Madhya Pradesh,Chhindwara,Red,Kharif,29,Cotton
+Madhya Pradesh,Chhindwara,Red,Kharif,29,Pulses
+Madhya Pradesh,Chhindwara,Red,Kharif,29,Tobacco
+Madhya Pradesh,Chhindwara,Red,Rabi,17,Wheat
+Madhya Pradesh,Chhindwara,Red,Rabi,17,Gram
+Madhya Pradesh,Chhindwara,Red,Rabi,17,Groundnut
+Madhya Pradesh,Chhindwara,Red,Rabi,17,Ragi
+Madhya Pradesh,Chhindwara,Red,Zaid,35,Vegetables
+Madhya Pradesh,Chhindwara,Red,Zaid,35,Sesame
+Madhya Pradesh,Chhindwara,Red,Zaid,35,Groundnut
+Gujarat,Ahmedabad,Black,Kharif,33,Cotton
+Gujarat,Ahmedabad,Black,Kharif,33,Soybean
+Gujarat,Ahmedabad,Black,Kharif,33,Groundnut
+Gujarat,Ahmedabad,Black,Kharif,33,Pigeon Pea
+Gujarat,Ahmedabad,Black,Kharif,33,Sorghum
+Gujarat,Ahmedabad,Black,Rabi,21,Wheat
+Gujarat,Ahmedabad,Black,Rabi,21,Gram
+Gujarat,Ahmedabad,Black,Rabi,21,Sunflower
+Gujarat,Ahmedabad,Black,Rabi,21,Linseed
+Gujarat,Ahmedabad,Black,Zaid,39,Groundnut
+Gujarat,Ahmedabad,Black,Zaid,39,Sesame
+Gujarat,Ahmedabad,Black,Zaid,39,Vegetables
+Gujarat,Kutch,Sandy,Kharif,34,Bajra
+Gujarat,Kutch,Sandy,Kharif,34,Groundnut
+Gujarat,Kutch,Sandy,Kharif,34,Guar
+Gujarat,Kutch,Sandy,Kharif,34,Moth Bean
+Gujarat,Kutch,Sandy,Rabi,22,Mustard
+Gujarat,Kutch,Sandy,Rabi,22,Gram
+Gujarat,Kutch,Sandy,Rabi,22,Barley
+Gujarat,Kutch,Sandy,Zaid,40,Watermelon
+Gujarat,Kutch,Sandy,Zaid,40,Muskmelon
+Gujarat,Kutch,Sandy,Zaid,40,Cucumber
+Gujarat,Surat,Alluvial,Kharif,30,Rice
+Gujarat,Surat,Alluvial,Kharif,30,Maize
+Gujarat,Surat,Alluvial,Kharif,30,Sugarcane
+Gujarat,Surat,Alluvial,Kharif,30,Cotton
+Gujarat,Surat,Alluvial,Kharif,30,Jute
+Gujarat,Surat,Alluvial,Rabi,18,Wheat
+Gujarat,Surat,Alluvial,Rabi,18,Mustard
+Gujarat,Surat,Alluvial,Rabi,18,Gram
+Gujarat,Surat,Alluvial,Rabi,18,Barley
+Gujarat,Surat,Alluvial,Rabi,18,Peas
+Gujarat,Surat,Alluvial,Zaid,36,Watermelon
+Gujarat,Surat,Alluvial,Zaid,36,Cucumber
+Gujarat,Surat,Alluvial,Zaid,36,Moong
+Gujarat,Surat,Alluvial,Zaid,36,Fodder Crops
+Tamil Nadu,Coimbatore,Red,Kharif,29,Groundnut
+Tamil Nadu,Coimbatore,Red,Kharif,29,Millet
+Tamil Nadu,Coimbatore,Red,Kharif,29,Cotton
+Tamil Nadu,Coimbatore,Red,Kharif,29,Pulses
+Tamil Nadu,Coimbatore,Red,Kharif,29,Tobacco
+Tamil Nadu,Coimbatore,Red,Rabi,25,Wheat
+Tamil Nadu,Coimbatore,Red,Rabi,25,Gram
+Tamil Nadu,Coimbatore,Red,Rabi,25,Groundnut
+Tamil Nadu,Coimbatore,Red,Rabi,25,Ragi
+Tamil Nadu,Coimbatore,Red,Zaid,32,Vegetables
+Tamil Nadu,Coimbatore,Red,Zaid,32,Sesame
+Tamil Nadu,Coimbatore,Red,Zaid,32,Groundnut
+Tamil Nadu,Thanjavur,Alluvial,Kharif,30,Rice
+Tamil Nadu,Thanjavur,Alluvial,Kharif,30,Maize
+Tamil Nadu,Thanjavur,Alluvial,Kharif,30,Sugarcane
+Tamil Nadu,Thanjavur,Alluvial,Kharif,30,Cotton
+Tamil Nadu,Thanjavur,Alluvial,Kharif,30,Jute
+Tamil Nadu,Thanjavur,Alluvial,Rabi,26,Wheat
+Tamil Nadu,Thanjavur,Alluvial,Rabi,26,Mustard
+Tamil Nadu,Thanjavur,Alluvial,Rabi,26,Gram
+Tamil Nadu,Thanjavur,Alluvial,Rabi,26,Barley
+Tamil Nadu,Thanjavur,Alluvial,Rabi,26,Peas
+Tamil Nadu,Thanjavur,Alluvial,Zaid,33,Watermelon
+Tamil Nadu,Thanjavur,Alluvial,Zaid,33,Cucumber
+Tamil Nadu,Thanjavur,Alluvial,Zaid,33,Moong
+Tamil Nadu,Thanjavur,Alluvial,Zaid,33,Fodder Crops
+Tamil Nadu,Kanyakumari,Laterite,Kharif,28,Rice
+Tamil Nadu,Kanyakumari,Laterite,Kharif,28,Ragi
+Tamil Nadu,Kanyakumari,Laterite,Kharif,28,Tapioca
+Tamil Nadu,Kanyakumari,Laterite,Kharif,28,Cashew
+Tamil Nadu,Kanyakumari,Laterite,Rabi,24,Pulses
+Tamil Nadu,Kanyakumari,Laterite,Rabi,24,Vegetables
+Tamil Nadu,Kanyakumari,Laterite,Zaid,31,Coconut
+Tamil Nadu,Kanyakumari,Laterite,Zaid,31,Areca Nut
+Tamil Nadu,Kanyakumari,Laterite,Zaid,31,Rubber
+Karnataka,Bengaluru Rural,Red,Kharif,25,Groundnut
+Karnataka,Bengaluru Rural,Red,Kharif,25,Millet
+Karnataka,Bengaluru Rural,Red,Kharif,25,Cotton
+Karnataka,Bengaluru Rural,Red,Kharif,25,Pulses
+Karnataka,Bengaluru Rural,Red,Kharif,25,Tobacco
+Karnataka,Bengaluru Rural,Red,Rabi,20,Wheat
+Karnataka,Bengaluru Rural,Red,Rabi,20,Gram
+Karnataka,Bengaluru Rural,Red,Rabi,20,Groundnut
+Karnataka,Bengaluru Rural,Red,Rabi,20,Ragi
+Karnataka,Bengaluru Rural,Red,Zaid,30,Vegetables
+Karnataka,Bengaluru Rural,Red,Zaid,30,Sesame
+Karnataka,Bengaluru Rural,Red,Zaid,30,Groundnut
+Karnataka,Belagavi,Black,Kharif,27,Cotton
+Karnataka,Belagavi,Black,Kharif,27,Soybean
+Karnataka,Belagavi,Black,Kharif,27,Groundnut
+Karnataka,Belagavi,Black,Kharif,27,Pigeon Pea
+Karnataka,Belagavi,Black,Kharif,27,Sorghum
+Karnataka,Belagavi,Black,Rabi,22,Wheat
+Karnataka,Belagavi,Black,Rabi,22,Gram
+Karnataka,Belagavi,Black,Rabi,22,Sunflower
+Karnataka,Belagavi,Black,Rabi,22,Linseed
+Karnataka,Belagavi,Black,Zaid,32,Groundnut
+Karnataka,Belagavi,Black,Zaid,32,Sesame
+Karnataka,Belagavi,Black,Zaid,32,Vegetables
+Karnataka,Dakshina Kannada,Laterite,Kharif,25,Rice
+Karnataka,Dakshina Kannada,Laterite,Kharif,25,Ragi
+Karnataka,Dakshina Kannada,Laterite,Kharif,25,Tapioca
+Karnataka,Dakshina Kannada,Laterite,Kharif,25,Cashew
+Karnataka,Dakshina Kannada,Laterite,Rabi,20,Pulses
+Karnataka,Dakshina Kannada,Laterite,Rabi,20,Vegetables
+Karnataka,Dakshina Kannada,Laterite,Zaid,30,Coconut
+Karnataka,Dakshina Kannada,Laterite,Zaid,30,Areca Nut
+Karnataka,Dakshina Kannada,Laterite,Zaid,30,Rubber

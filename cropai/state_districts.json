@@ -1,0 +1,56 @@
+{
+  "Punjab": [
+    "Amritsar",
+    "Ludhiana",
+    "Bathinda"
+  ],
+  "Uttar Pradesh": [
+    "Varanasi",
+    "Meerut",
+    "Jhansi"
+  ],
+  "Bihar": [
+    "Patna",
+    "Gaya"
+  ],
+  "West Bengal": [
+    "Bankura",
+    "Purulia",
+    "Purba Medinipur",
+    "Paschim Medinipur",
+    "Murshidabad",
+    "Jalpaiguri"
+  ],
+  "Rajasthan": [
+    "Jaisalmer",
+    "Jodhpur",
+    "Kota",
+    "Udaipur"
+  ],
+  "Maharashtra": [
+    "Nagpur",
+    "Pune",
+    "Nashik",
+    "Kolhapur"
+  ],
+  "Madhya Pradesh": [
+    "Indore",
+    "Bhopal",
+    "Chhindwara"
+  ],
+  "Gujarat": [
+    "Ahmedabad",
+    "Kutch",
+    "Surat"
+  ],
+  "Tamil Nadu": [
+    "Coimbatore",
+    "Thanjavur",
+    "Kanyakumari"
+  ],
+  "Karnataka": [
+    "Bengaluru Rural",
+    "Belagavi",
+    "Dakshina Kannada"
+  ]
+}

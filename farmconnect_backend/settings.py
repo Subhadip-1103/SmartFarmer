@@ -51,6 +51,7 @@ INSTALLED_APPS = [
     'marketplace',
     'cropai',
     'weather',
+    'diseaseai',
 ]
 
 MIDDLEWARE = [
